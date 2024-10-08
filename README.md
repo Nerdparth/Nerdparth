@@ -5,8 +5,8 @@
 Passionate about innovation and development, I focus on implementing unique and transformative ideas.
 
 - 🌍 I'm based in India
-- ✉️ You can contact me at [Your Email]
-- 🚀 I'm currently working on [Your Current Project]
+- ✉️ You can contact me at Parth Kapoor
+- 🚀 I'm currently working on Happening
 - 🧠 I'm learning Machine Learning
 - 🤝 I'm open to collaborating on Websites and Software Development.
 - ⚡ My strength is that I never give up... And my weakness is that I forget to eat if there is any pending work left!
