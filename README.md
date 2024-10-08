@@ -22,8 +22,10 @@ Passionate about innovation and development, I focus on implementing unique and 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/YOUR_TWITTER)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nerdparth)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parth-kapoor-151436269/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/parthkapoor488)
+[![Linktree](https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/nerdparth)
 
 ### GitHub Stats
 ![Nerdparth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nerdparth&show_icons=true&theme=radical)
