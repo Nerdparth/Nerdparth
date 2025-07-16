@@ -5,7 +5,7 @@
 Passionate about innovation and development, I focus on implementing unique and transformative ideas.
 
 - 🌍 I'm based in India
-- ✉️ You can contact me at parthkapoor@ishappening.live
+- ✉️ You can contact me at parthkapoor488@gmail.com
 - 🚀 I'm currently working on Happening
 - 🧠 I'm learning Machine Learning
 - 🤝 I'm open to collaborating on Websites and Software Development.
